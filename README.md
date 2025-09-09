@@ -12,5 +12,6 @@ im too lazy to continue writing
 # Project Status
 Percent done,
       0%
+
 My brain compacity,
       0%
